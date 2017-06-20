@@ -1,0 +1,13 @@
+* Chenla Research Themes & Projects
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+
+An annual introduction and overview of major research themes and
+projects at the Chenla Institute.
+
+The initial issue will be more of a prospectus of plans for research
+and projects that the Intitute will launch with.
