@@ -32,5 +32,5 @@ and projects that the Intitute will launch with.
 --- 
 
 *NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/chenla-themes ]] 
-Please submit pull requests and issues there.  A read
-Only-Mirror is maintained @ [[https://github.com/chenla/chenla-themes ]]
+Please submit pull requests and issues there.  A read-only mirror is
+maintained @ [[https://github.com/chenla/chenla-themes ]]
