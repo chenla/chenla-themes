@@ -28,3 +28,9 @@ projects at the Chenla Institute.
 
 The initial issue will be more of a prospectus of plans for research
 and projects that the Intitute will launch with.
+
+--- 
+
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/chenla-themes ]] 
+Please submit pull requests and issues there.  A read
+Only-Mirror is maintained @ [[https://github.com/chenla/chenla-themes ]]
